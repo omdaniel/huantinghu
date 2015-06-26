@@ -20,3 +20,6 @@ src for source code
 1. item1
 	2. item2
 		3. item3
+
+markdown had *italic* and **bold** and 
+[links] (http://daringfireball.net/projects/markdown/syntax)
